@@ -1,0 +1,8 @@
+{
+  "plugins": ["@typescript-eslint", "drizzle"],
+  "extends": ["prettier", "eslint:recommended", "plugin:@typescript-eslint/recommended", "next"],
+  "rules": {
+    "@typescript-eslint/no-unused-vars": "warn",
+    "@typescript-eslint/no-explicit-any": "error"
+  }
+}
