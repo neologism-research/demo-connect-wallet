@@ -17,7 +17,7 @@ export default function Home() {
     <main className="flex flex-col items-center justify-center text-uppercase text-center h-screen">
       <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 1.5 }} className="flex flex-col gap-2 items-center justify-center">
         <h1 className="text-[50px] leading-[50px] md:text-[100px] md:leading-[80px] font-amazing-views ">
-          <span className="text-green-800">Neologism</span>
+          <span className="text-green-800"></span>
           <br />
           CONNECT WALLET DEMO
           <br />
